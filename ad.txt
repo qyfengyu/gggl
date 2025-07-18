@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 
+ffuuff.com,kkjjkk.com###modal1
 ffuuff.com,kkjjkk.com###btmBox
 ffuuff.com,kkjjkk.com##.appad
 ffuuff.com,kkjjkk.com###maskBox
