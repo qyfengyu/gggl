@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
 
 kkjjkk.com\*##.appad
-kkjjkk.com\*##.content
+kkjjkk.com\###.modal1
 kkjjkk.com\###.popBox
