@@ -1,2 +1,3 @@
 [Adblock Plus 2.0]
-xiazaiba.com##.state-soft
+
+kkjjkk.com##.appad
