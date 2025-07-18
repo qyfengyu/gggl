@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 
-kkjjkk.com###btmBox
-kkjjkk.com##.appad
-kkjjkk.com###maskBox
-kkjjkk.com###popBox
-kkjjkk.com###modal1
-kkjjkk.com###menuBox dl:nth-child(n+6)
+ffuuff.com,kkjjkk.com###btmBox
+ffuuff.com,kkjjkk.com##.appad
+ffuuff.com,kkjjkk.com###maskBox
+ffuuff.com,kkjjkk.com###popBox
+ffuuff.com,kkjjkk.com###modal1
+ffuuff.com,kkjjkk.com###menuBox dl:nth-child(n+6)
