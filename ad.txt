@@ -1,5 +1,7 @@
 [Adblock Plus 2.0]
 
-
+ffuuff.com,kkjjkk.com###btmBox
+ffuuff.com,kkjjkk.com##.appad
+ffuuff.com,kkjjkk.com###maskBox
 ffuuff.com,kkjjkk.com###azwangye1
 ffuuff.com,kkjjkk.com###menuBox dl:nth-child(n+6)
