@@ -5,3 +5,4 @@ kkjjkk.com##.appad
 kkjjkk.com###maskBox
 kkjjkk.com###popBox
 kkjjkk.com###modal1
+kkjjkk.com###menuBox dl:nth-child(n+6)
