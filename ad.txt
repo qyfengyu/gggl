@@ -20,3 +20,4 @@ g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###banner34
 g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.fxied-box
 g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-app-box
 g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-adv-items
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scroll-sixgrid-ad
