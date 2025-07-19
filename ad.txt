@@ -6,7 +6,7 @@ ffuuff.com,kkjjkk.com###maskBox
 ffuuff.com,kkjjkk.com###modal1
 ffuuff.com,kkjjkk.com###azwangye1
 ffuuff.com,kkjjkk.com###menuBox dl:nth-child(n+6)
-! 苹果
+
 wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-box
 wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-2
 wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-3
