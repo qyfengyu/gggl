@@ -7,18 +7,19 @@ ffuuff.com,kkjjkk.com###modal1
 ffuuff.com,kkjjkk.com###azwangye1
 ffuuff.com,kkjjkk.com###menuBox dl:nth-child(n+6)
 ! 苹果
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-box
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-2
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-3
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-4
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-5
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###swiper-wrapper-7dd6b8eb66bf03d8
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-linktext-ad
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-sixgrid-3
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-sixgrid-ad-2
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###banner34
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.fxied-box
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-app-box
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-adv-items
-wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scroll-sixgrid-ad
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-box
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-2
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-3
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-4
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-5
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###swiper-wrapper-7dd6b8eb66bf03d8
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-linktext-ad
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-sixgrid-3
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-sixgrid-ad-2
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###banner34
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.fxied-box
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-app-box
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-adv-items
+wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scroll-sixgrid-ad
+
 
