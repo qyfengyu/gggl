@@ -7,16 +7,16 @@ ffuuff.com,kkjjkk.com###modal1
 ffuuff.com,kkjjkk.com###azwangye1
 ffuuff.com,kkjjkk.com###menuBox dl:nth-child(n+6)
 ! 苹果
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-scrollimages-bird-box
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-scrollimages-bird-mix-2
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-scrollimages-bird-mix-3
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-scrollimages-bird-mix-4
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-scrollimages-bird-mix-5
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###swiper-wrapper-7dd6b8eb66bf03d8
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-linktext-ad
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-sixgrid-3
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###top-sixgrid-ad-2
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc###banner34
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc##.fxied-box
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc##.footer-app-box
-g5vh.sap2049n77.cc,https://wh4f.sap20562gf.cc##.footer-adv-items
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-box
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-2
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-3
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-4
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scrollimages-bird-mix-5
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###swiper-wrapper-7dd6b8eb66bf03d8
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-linktext-ad
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-sixgrid-3
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-sixgrid-ad-2
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###banner34
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.fxied-box
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-app-box
+g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-adv-items
