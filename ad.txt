@@ -22,3 +22,4 @@ wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.fo
 wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scroll-sixgrid-ad
 
 
+@@||qouem.umxha.top^$document @@||qouem.umxha.top/addr/mobile.js$script
