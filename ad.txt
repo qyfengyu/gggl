@@ -20,4 +20,6 @@ wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.fx
 wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-app-box
 wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc##.footer-adv-items
 wh4f.sap2046cmx.cc,wh4f.sap2045tci.cc,g5vh.sap2049n77.cc,wh4f.sap20562gf.cc###top-scroll-sixgrid-ad
-||qouem.umxha.top/addr/mobile.js$script
+! youwu
+||qouem.umxha.top,||lojia.nmsss.top/addr/mobile.js$script
+||qouem.umxha.top,||lojia.nmsss.top##.module
